@@ -4,5 +4,4 @@ We are an American based software and animation development studio, working on m
 
 ## Our Projects:
 * Sunrise - A video game focused on the idea of building games in a game.
-* RyjmTracker - A music tracker built for quick doodles and ideas
 * PSPMine - Minecraft for the PlayStation Portable
